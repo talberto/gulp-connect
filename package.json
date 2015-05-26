@@ -1,11 +1,11 @@
 {
   "name": "gulp-connect",
-  "version": "2.2.0",
+  "version": "2.2.1",
   "description": "Gulp plugin to run a webserver (with LiveReload)",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git://github.com/avevlad/gulp-connect"
+    "url": "git://github.com/talberto/gulp-connect.git"
   },
   "authors": [
     {
@@ -17,6 +17,10 @@
       "name": "Johannes Schickling",
       "email": "schickling.j@gmail.com",
       "url": "http://schickling.me/"
+    },
+    {
+      "name": "Tomas Rodriguez",
+      "email": "trodriguez@xebia.fr"
     },
     {
       "name": "Contributors",
